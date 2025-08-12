@@ -1,0 +1,5 @@
+2025-07-04 14:21:48.926 | INFO     | bumpbot.main:create_bot:129 - 🚀 Starting BumpBot...
+2025-07-04 14:21:52.554 | INFO     | bumpbot.main:on_ready:47 - ✅ Logged in as inatehiggers0911#0
+2025-07-04 14:21:56.785 | INFO     | bumpbot.main:on_message:65 - 📩 Command received: ?b ping
+2025-07-04 14:22:08.947 | INFO     | bumpbot.main:on_message:65 - 📩 Command received: ?b help
+2025-07-04 14:22:36.785 | INFO     | bumpbot.main:on_message:65 - 📩 Command received: ?b stats
